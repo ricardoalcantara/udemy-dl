@@ -7,7 +7,7 @@ Github 	: https://github.com/r0oth3x49
 License : MIT
 
 
-Copyright (c) 2018 Nasir Khan (r0ot h3x49)
+Copyright (c) 2018-2025 Nasir Khan (r0ot h3x49)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the
 Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, 
@@ -22,5 +22,5 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 '''
 
-from .colors import *
-from . import banner
+from udemy.colorized.colors import *
+from udemy.colorized.banner import banner
